@@ -1,2 +1,2 @@
 
-[beetles.gif](beetle detection and registration)
+![beetle detection and registration](beetles.gif)
